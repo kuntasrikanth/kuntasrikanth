@@ -10,7 +10,7 @@
 
 📍 Wolverhampton, United Kingdom &nbsp;|&nbsp; 🎓 MSc Business Analytics — University of Law
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/srikanthkunta](https://www.linkedin.com/in/srikanthkunta/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthkunta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuntasrikanth)
 [![YouTube](https://img.shields.io/badge/Copy_The_Facts_Telugu-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@copy_the_facts_telugu)
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/srikanthkunta](https://www.linkedin.com/in/srikanthkunta/))
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthkunta)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuntasrikanth)
 [![YouTube](https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@copy_the_facts_telugu)
 
