@@ -1,5 +1,6 @@
 <div 
-# Hi, I'm Srikanth Kunta 👋
+## Hi, I'm Srikanth Kunta 👋
+<div
 
 ### Data Analyst · Python · SQL · Tableau · Power BI · Excel
 
