@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="Untitledvideo-ezgif.com-optimize.gif" width="420" alt="Srikanth Kunta - Data Analyst Hero"/>
-
-# Hi, I'm Srikanth Kunta 👋
+<div # Hi, I'm Srikanth Kunta 👋
 
 ### Data Analyst · Python · SQL · Tableau · Power BI · Excel
 
