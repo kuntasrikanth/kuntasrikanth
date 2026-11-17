@@ -7,6 +7,7 @@
 
 📍 Wolverhampton, United Kingdom &nbsp;|&nbsp; 🎓 MSc Business Analytics — University of Law
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-srikanthkunta.co.uk-FFD400?style=for-the-badge&logo=googlechrome&logoColor=black)](https://srikanthkunta.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthkunta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuntasrikanth)
 [![YouTube](https://img.shields.io/badge/Copy_The_Facts_Telugu-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@copy_the_facts_telugu)
@@ -17,6 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
+- 🌐 Portfolio: **[srikanthkunta.co.uk](https://srikanthkunta.co.uk)**, my work in social media, Shopify, AI video and data
 - 🔭 Currently building **end-to-end data analytics projects** — from raw data collection to interactive dashboards
 - 🎓 Studying **MSc Business Analytics** at the University of Law, UK
 - 🧠 Learning: **Advanced Machine Learning · Data Engineering · Microsoft Azure**
