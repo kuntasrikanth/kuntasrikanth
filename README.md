@@ -73,6 +73,6 @@ I'm also doing an **MSc in Business Analytics** at The University of Law, and I 
 
 <div align="center">
 
-**Contact:** [srikanthkunta.co.uk](https://srikanthkunta.co.uk) · [LinkedIn](https://www.linkedin.com/in/srikanthkunta) · kuntasrikanth00@gmail.com
+**Contact:** [srikanthkunta.co.uk](https://srikanthkunta.co.uk) · [LinkedIn](https://www.linkedin.com/in/srikanthkunta) · [hello@srikanthkunta.co.uk](mailto:hello@srikanthkunta.co.uk)
 
 </div>
